@@ -9,9 +9,8 @@ But, only a few number of these students actually understand C programming langu
 This is where the remaining students are left behind and kept wandering from one course to another over the 
 internet to get the best knowledge on understanding C programming language with cups of coffee on their table everyday.
 
-========================
     What I’ll learn
-========================
+
     01. Level up your C programming skill with over 130+ beginners best practices
     02. How to accept input from User
     03. How to sum 2 integers from user
